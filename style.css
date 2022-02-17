@@ -3,18 +3,17 @@
     height: 440px;
     width: 100%;
 }
+
 .secund{
     font-size: 18px ;
     color:#F2D750;
 }
-body{
-    background-color: #e27508;
-}
+
 .principal{
     background-color: #4c941c;
 }
 body{
-    background-color:#964a4a73 ;
+    background-color:#ff0000 ;
     color: #080706 ;
 }
 h1{
@@ -25,5 +24,5 @@ h1{
 }
 .beneficios{
     background-attachment: fixed;
-    background-color: crimson;
+    background-color: rgb(220, 20, 210);
 }
