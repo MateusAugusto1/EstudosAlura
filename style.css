@@ -10,19 +10,32 @@
 }
 
 .principal{
-    background-color: #4c941c;
+    background-color: #fc65f234;
+    margin: 20px;
+    padding:10px;
 }
 body{
-    background-color:#ff0000 ;
+    background-color:#8C3926;
     color: #080706 ;
+    
 }
 h1{
-    color:#1C8394;
+    color:#080706;
+    padding-left: 20PX;
 }
 .itens{
     font-style: italic;
 }
 .beneficios{
     background-attachment: fixed;
-    background-color: rgb(220, 20, 210);
+    background-color: #daff5338;
+    margin: 20px;
+    padding:10px;
+    text-align: top;
+
 }
+.corte{
+    width: 40%;
+    height: 40%;
+}
+
